@@ -28,5 +28,5 @@
 <div align="center" style="font-size: 20px; font-weight: bold;">
   ©️ 2023 - 2023 - FileSwiftly - All rights reserved.
   <br />
-  Powered by <a href="https://tresthost.me">TrestHost</a>
+  Powered by <a href="https://tresthost.me" target="_blank">TrestHost</a>
 </div>
